@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Offices and places of trust not to be boucht [sic] or sold, or given to insufficient persons discovered in a sober and peaceable letter.</title>
+            <author>E. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52600</idno>
+            <idno type="STC">Wing N15</idno>
+            <idno type="STC">ESTC R9696</idno>
+            <idno type="EEBO-CITATION">13111254</idno>
+            <idno type="OCLC">ocm 13111254</idno>
+            <idno type="VID">97658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52600)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Offices and places of trust not to be boucht [sic] or sold, or given to insufficient persons discovered in a sober and peaceable letter.</title>
+                  <author>E. N.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Marriot ...</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Signed at end: E.N.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sale of public office --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97658:1"/>
+            <pb facs="tcp:97658:1"/>
+            <p>OFFICES AND PLACES OF TRUST NOT TO BE BOU<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>HT or SOLD, OR GIVEN TO INSUFFICIENT PERSONS. Diſcovered in a ſober and Peaceable LETTER.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Marriot,</hi> and are to be ſold at his ſhop in St. <hi>Dunſtans</hi> Church-yard <hi>Fleetſtreet.</hi> 1660.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:97658:2"/>
+            <head>The Publiſher to the Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THere are <hi>vitia temporis,</hi> as well as <hi>vitia hominis;</hi> Therefore the following Tetter coming caſually to my hands, and I conceiving it to be bent againſt crimes and peccancies, (which no time wants) and not at all againſt perſons high or low, did reſolve to endeavour to make it pub<g ref="char:EOLhyphen"/>lick; the rather becauſe I perceive the Author cites Authority almoſt for every paragraph of it, which thou mayſt examine, and believe<g ref="char:punc">▪</g> or not believe, as thou findeſt the quotations true or falſe; I confidently preſume<g ref="char:punc">▪</g> I doe His Sacred Majeſty ſervice hereby, for to have the Law duly executed will much conduce to His Majeſties honour, and ſtop the mouths of gain<g ref="char:EOLhyphen"/>ſayers and murmurers, (if any ſuch ſhould be) againſt His Highneſs Government; I really tell thee<g ref="char:punc">▪</g> that I believe the Authors end to be honeſt and ſincere, and therefore it is that thou haſt this trouble from me, and<g ref="char:punc">▪</g> for my part<g ref="char:punc">▪</g> thou mayſt aſſure thy ſelf<g ref="char:punc">▪</g> that I have no higher end in it<g ref="char:punc">▪</g> then faithfully to ſerve His Majeſty, and his Realmes, take it therefore in good part from</p>
+            <closer>
+               <signed>Thy humble ſervant <hi>N. Y.</hi>
+               </signed>
+               <dateline>
+                  <date>20. Sept. 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:97658:2" rendition="simple:additions"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I anſwer your Queſtion, I ſhall<g ref="char:punc">▪</g> ac<g ref="char:EOLhyphen"/>cording to my beſt memory and skill (with<g ref="char:EOLhyphen"/>in that little ſtint of time, to which I am li<g ref="char:EOLhyphen"/>mited by you,) give you my judgement, how the Law expects the qualifications of all thoſe, who are to be ſubordinate Magi<g ref="char:EOLhyphen"/>ſtrates, Officers<g ref="char:punc">▪</g> and Deputies under <hi>His Majeſty,</hi> in the managery of His Govern<g ref="char:EOLhyphen"/>ment, and Adminiſtration of Juſtice, to be; and becauſe I tell you what the Law expects they ſhould be, I do thereby omit to tell you<g ref="char:punc">▪</g> what the Law of God ſaith<g ref="char:punc">▪</g> they ſhould be, but refer you to the 17. <hi>Exod.</hi> 19. &amp;c. touching <hi>Jethroes</hi> Counſell to <hi>Moſes,</hi> and the 1 <hi>Deut.</hi> 9. &amp;c. which duely compared with our Law in this reſpect; you ſhall find this to be the daughter, (if not the firſt-born) of that, attended with the auxiliary force of Divines, Philoſophers, Moraliſts, yea Pagans and Heathens in generall, that retain any thing of the firſt pure impreſſes of na<g ref="char:EOLhyphen"/>ture upon them, and are not quite immerſed in forlorn and bar<g ref="char:EOLhyphen"/>ren Ruſticity and Barbariſme.</p>
+            <p>And becauſe <hi>Cicero in his firſt book of Offices<g ref="char:punc">▪</g>
+               </hi> ſaith, that every orderly diſcourſe, <hi>debet à definitione proficiſci,</hi> I ſhall begin with ſuch definition or deſcription, that the Law only gives of an Of<g ref="char:EOLhyphen"/>fice or ſubordinate Magiſtracy; and then proceed according to my purpoſe.</p>
+            <p> 
+               <note n="*" place="margin">
+                  <hi>Plowd.</hi> 380.</note>
+               <hi>Plowden</hi> a very learned Lawyer tells us, That <hi>an Office is a thing to be exerciſed by the body of a Man.</hi> Another <note n="†" place="margin">
+                  <hi>Finches</hi> Law. fol. 162. But an Offi<g ref="char:EOLhyphen"/>cer is deſcri<g ref="char:EOLhyphen"/>bed to be, <hi>One who receiveth by publick Au<g ref="char:EOLhyphen"/>thority the Charge and o<g ref="char:EOLhyphen"/>ver-ſight of hu<g ref="char:EOLhyphen"/>mane affaires belonging to the Common<g ref="char:EOLhyphen"/>wealth.</hi>
+               </note> Lawyer of great eſteem ſaith, <hi>An Office is a duty of Attendance upon a Charge.</hi>
+            </p>
+            <p>
+               <note place="margin">Sig de Jur. Rom. lib. 1. c. 20.</note> This being the nature of an Office or Charge, the Law tells us the perſon or perſons that muſt attend it ought be, <hi>Habiles &amp; idonei, &amp; pares Negotiis.</hi> As
+<list>
+                  <item>
+                     <note place="margin">
+                        <hi>Co. lib.</hi> 8. <hi>f.</hi> 41. <hi>b.</hi>
+                     </note> 1. They ought to be honeſt. 2. Knowing and capable. 3. Able. 4. Diligent.</item>
+                  <pb n="2" facs="tcp:97658:3"/>
+                  <item>
+                     <note place="margin">12. <hi>R.</hi> 2. <hi>cap.</hi> 2.</note> 2. They ought to come to their Imployments and Offices, <hi>ſine praemio, ſine precio, &amp; ſine prece,</hi> &amp;c.</item>
+                  <item>
+                     <note place="margin">2 <hi>Inſtit. f.</hi> 32.</note> 3. They ought to be a grace to the place, and not the place a grace to them.</item>
+               </list>
+            </p>
+            <p>Now the right choice of Officers and ſubordinate Miniſters of State, according to theſe qualifications<g ref="char:punc">▪</g> will very much promote the happineſs of the Kingdom, for it will be the <hi>principle<g ref="char:punc">▪</g>
+               </hi> as well as the <hi>duty<g ref="char:punc">▪</g>
+               </hi> of ſuch men<g ref="char:punc">▪</g> to advance the Adminiſtration of Juſtice, <note place="margin">14 Prov. 34.</note> 
+               <hi>and Juſtice or Righteouſneſs,</hi> (as the wiſe man ſaith) <hi>exalteth a Nation.</hi>
+            </p>
+            <p>And if theſe <hi>Praecognita</hi> be not obſerved in their choice, but that either money<g ref="char:punc">▪</g> or wry and warping affection<g ref="char:punc">▪</g> ſhall ſway in this Caſe, (each of which the Law accounts <hi>Turpis Conſideratio,</hi> for <hi>quilibet tonetur magis recompenſare virtuoſo, quam Amico aut venundatori.</hi>) Then may it be ſaid to us, as once <hi>Ingurtha</hi> ſaid to Rome, <note place="margin">
+                  <hi>Co. lit.</hi> 234.</note> 
+               <hi>Vade venalis Civitas, mox peritura, ſi emptorem invenias:</hi> and it is obſerved by the Lord <hi>Coke<g ref="char:punc">▪</g>
+               </hi> out of <hi>Aerod.</hi> fol. 353. <note place="margin">
+                  <hi>Aerod.</hi> 553.</note> 
+               <hi>That nulla alia re magis Romana Respublica interiit, quam quod Magi<g ref="char:EOLhyphen"/>ſtratus Officia venalia erant.</hi>
+            </p>
+            <p>It is moſt true<g ref="char:punc">▪</g> that if Offices and Places of Truſt<g ref="char:punc">▪</g> in any Na<g ref="char:EOLhyphen"/>tion, ſhould be given to men <hi>not qualified</hi> for them, or <hi>ſold<g ref="char:punc">▪</g>
+               </hi> as it were<g ref="char:punc">▪</g> in the market for the utmoſt penny<g ref="char:punc">▪</g> or for any money at all (in truth,) this would be a bar to all generous endeavours; for who would induſtriouſly and ſtrenuouſly betake himſelf to any ingeni<g ref="char:EOLhyphen"/>ous Art or Profeſſion, if <hi>money</hi> or <hi>ſquint-affection</hi> ſhall preponde<g ref="char:EOLhyphen"/>rate true worth? friends or money then will do that which paines, learning and long experience (which is the <hi>Oracle</hi> of time, and is indeed <hi>gotten by length of time and variety of occur<g ref="char:EOLhyphen"/>rences</hi>) ſhall never be able to compaſſe without them; theſe are the <hi>fodder</hi> of the Bruitiſh or ſenſuall part of man, but not his <hi>pu<g ref="char:EOLhyphen"/>reſt earthly nutriment,</hi> much leſs his <hi>Heavenly one;</hi> and it is the fate of wiſe men often to be <hi>poor,</hi> and I cannot call it their <hi>fault</hi> to be <hi>modeſt;</hi> they are poor; they <hi>cannot buy;</hi> they are modeſt, they <hi>will not</hi> buy, becauſe they conceive merit over-weighs money, or friendſhip, in wiſe mens eſteem.</p>
+            <p>And now give me leave to tranſpoſe the order, I firſt began with, and to bring inſtances from Hiſtory and other Authorities, before I come to give you the verdict of our Common and Sta<g ref="char:EOLhyphen"/>tute
+<pb n="3" facs="tcp:97658:3" rendition="simple:additions"/> Lawes of <hi>England</hi> in this Caſe, and I pray pretermit my haſty faults of want of due order in what I offer, and be pleaſed to heed the matter propoſed<g ref="char:punc">▪</g> and its weight<g ref="char:punc">▪</g> above a regular School-me<g ref="char:EOLhyphen"/>thod<g ref="char:punc">▪</g> which I affect, but have not time to obſerve; nor in truth do I eſteem it of pure neceſſity, but among extreme Criticks, if things be but clearly offered to the Readers underſtanding.</p>
+            <p>It is obſerved by an Hiſtorian, <note place="margin">Turkiſh Hi<g ref="char:EOLhyphen"/>ſtory, fol. 227</note> as an Excellent quality in <hi>Ta<g ref="char:EOLhyphen"/>merlane</hi> the great, and Commander of the Tartars, <hi>That he be<g ref="char:EOLhyphen"/>ſtowed his preferments not on thoſe that ambitiouſly ſought the ſame, (for ſuch he deemed unworthy) but on ſuch, as whoſe mode<g ref="char:EOLhyphen"/>ſty and deſert he thought worthy of thoſe his great favours.</hi> And the Hiſtorian obſerves further, <hi>that the ſervices of his ſervants he never forgot—he kept a Catalogue of their Names and good Deſerts, and that day was loſt with him<g ref="char:punc">▪</g> wherein he had not GIVEN ſome<g ref="char:EOLhyphen"/>thing to ſuch.</hi>
+            </p>
+            <p>This Noble <hi>Scythian,</hi> for ſuch he was by Nation, not only ob<g ref="char:EOLhyphen"/>ſerv'd, but ſearched our deſert; kept a Catalogue of Deſerving men, peruſed it every day (as well knowing, that merit and worth is too apt to retire it ſelf into the ſhade of a modeſt priva<g ref="char:EOLhyphen"/>cy,) and (as we ſee) he was every day giving ſomething to ſuch, and not ſelling. And this he was taught to do from the meer light of reaſon and ordinary notions of nature, without any mo<g ref="char:EOLhyphen"/>tive of piety, the fear of God, or the leaſt aide from true Re<g ref="char:EOLhyphen"/>gion.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pacius annot: in Juſtini. In<g ref="char:EOLhyphen"/>ſtit.</hi> fol. 413. <hi>Minſinger. Scholia in Ju<g ref="char:EOLhyphen"/>ſtin. Inſtit.</hi> lib. 4. <hi>de publi<g ref="char:EOLhyphen"/>cis Judiciis.</hi> Tit. 18. f 913. <hi>Peter Martyrs</hi> Common pla<g ref="char:EOLhyphen"/>ces. <hi>fol.</hi> 47. See <hi>Godw. Antiq.</hi> f. 241. <hi>Minſinger. Ibid.</hi>
+               </note> The <hi>Romans</hi> had a Law which the Civil Lawyers call <hi>Lex Julia de Ambitu,</hi> which <hi>Cicero</hi> in his Oration <hi>pro Murena</hi> ſaith, he was Lator or Maker of: This Law enacted, <hi>that thoſe who did compaſs and attain Honour and Magiſtracy by money, ſhould be puniſhed with great pecuniary Mulcts, and alſo be made Infamous:</hi> and the reaſon which that Law gives is, <hi>quia ſuae virtuti non Con<g ref="char:EOLhyphen"/>fidunt, ſed per circuitum ambiunt populi ſuffragia &amp; Magiſtratus;</hi> and one ſaith, <hi>Simile crimen Eccleſiasticum eſt ſimonia.</hi> And in<g ref="char:EOLhyphen"/>deed ſo it is, for <hi>Qui pecunia &amp; largitionibus honores—Sacerdo<g ref="char:EOLhyphen"/>tia &amp; Magiſtratus ambiunt, his poena deportationis eſt praeſtituta,</hi> This was the ancient puniſhment among the <hi>Romans,</hi> (to wit) exile and baniſhment, <hi>ſed poſtea</hi> (ſaith he) <hi>Ex S. C. ad interpretationem leg. Juliae promulgato poena ſed aureorum cum nominis Infamia eſt conſtituta,</hi> ſo that after it was turned (as is ſaid before) into
+<pb n="4" facs="tcp:97658:4" rendition="simple:additions"/> Mulct and Infamy. Thus far, (and it is very far) Scythians and Pagans go, now hear what others tell you.</p>
+            <p>
+               <hi>Seneca</hi> in his Epiſtles ſaith, <note place="margin">
+                  <hi>Seneca Epiſt.</hi> 91.</note> 
+               <hi>Aureum ſeculum<g ref="char:punc">▪</g> in quo honores<g ref="char:punc">▪</g> me<g ref="char:EOLhyphen"/>lioribus</hi> (gratis) <hi>dabantur;</hi> for <hi>
+                  <note place="margin">
+                     <hi>Salvian.</hi>
+                  </note> dignitas in indigno eſt Ornamentum in luto,</hi> a great and a good mind becomes places of Truſt, for <note place="margin">Eccl. 10.6.</note> 
+               <hi>folly ought not to be ſet up in dignity,</hi> if <hi>Solomon</hi> be of any credit with us.</p>
+            <p>It was an excellent Eulogy given by the Hiſtorian to <hi>Lewis</hi> the ninth of <hi>France,</hi> 
+               <note place="margin">French Hiſto<g ref="char:EOLhyphen"/>ry <hi>fol.</hi> 153.</note> 
+               <hi>That the Realm being corrupted with the Injustice and extortion of the former Raigns, by the ſale of Offices and places of Truſt, (it being moſt certain that what we buy in Groſſe<g ref="char:punc">▪</g> we muſt ſell by Retaile.) This King</hi> Lewis <hi>the ninth did ex<g ref="char:EOLhyphen"/>preſly prohibite thoſe ſales, ſupplied ſuch places<g ref="char:punc">▪</g> as were void<g ref="char:punc">▪</g> accor<g ref="char:EOLhyphen"/>ding to the merit of perſons, after due examination, to draw good men<g ref="char:punc">▪</g> and of underſtanding, to apply themſelves to ſtudy, otherwiſe they ſhould have been ſhroudly tempted rather to have ſtored them<g ref="char:EOLhyphen"/>ſelves</hi> with money<g ref="char:punc">▪</g> 
+               <hi>then</hi> merit, <hi>with</hi> Gold <hi>then</hi> Goodneſs.</p>
+            <p>The honorable and learned <hi>Mornay,</hi> ſpeaking to <hi>Henry</hi> the fourth of <hi>France</hi> in his Meditation upon the 101. <hi>Pſalm,</hi> ſaith thus. <note place="margin">
+                  <hi>Mornay</hi> on the 101. <hi>Pſalm.</hi> fol. 135.</note> 
+               <hi>The Princes Eye and Care ſhould be upon the best ſort of men, to ſet them in Offices, and BESTOW Charges upon them; thoſe that affect ſuch places he ſhould alwaies ſuspect them, their perſons and practiſes, for he that earnestly aimeth at an Office or Living, without doubt deſireth it for the</hi> Profit, <hi>not for the</hi> Charge.</p>
+            <p>Reverend old <hi>Latimer,</hi> in a Sermon of his before King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the ſixth, hath theſe words. <note place="margin">
+                  <hi>Latimer</hi> fifth Sermon be<g ref="char:EOLhyphen"/>fore King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the ſixth.</note> 
+               <hi>God defend that ever any ſuch enormity ſhould be in</hi> England, <hi>That CIVIL OFFICES ſhould be bought and ſold, whereas men ſhould have them given them for their worthineſs—the holy Scripture qualifieth the Officers, men of Courage, Wiſe, fearing God, &amp;c.</hi>
+            </p>
+            <p>Learned <hi>Lavaterus<g ref="char:punc">▪</g>
+               </hi> in his Commentary upon the Proverbs of <hi>Solomon,</hi> 29. chap. verſe 4. tells you, <note place="margin">
+                  <hi>Ludov. Lavat.</hi> fol. 291. b.</note> That <hi>Munera dantes &amp; ac<g ref="char:EOLhyphen"/>cipientes perdunt Rempublicam, nam ubi Corruptela munerum, lo<g ref="char:EOLhyphen"/>cum habet, vera Religio, &amp; Juſtitia concidunt.</hi>
+            </p>
+            <p>
+               <hi>Bucer</hi> alſo hath to this purpoſe; <note place="margin">
+                  <hi>Bucerus.</hi>
+               </note> 
+               <hi>Offices are not Livings and Salaries, but Charges and Duties; not preferments for favorites, but rewards for deſerts.</hi> 
+               <note place="margin">
+                  <hi>Julius. Theodoſius, &amp;c.</hi>
+               </note> 
+               <hi>Julius, Theodoſius.</hi> &amp;c. ſay much more.</p>
+            <pb n="5" facs="tcp:97658:4" rendition="simple:additions"/>
+            <p>
+               <hi>Auguſtine<g ref="char:punc">▪</g>
+               </hi> in his Book <hi>de Civitate Dei<g ref="char:punc">▪</g>
+               </hi> ſaies, <note place="margin">
+                  <hi>Aug. lib.</hi> 10. <hi>de Civ. Dei c.</hi> 14.</note> 
+               <hi>That ſuch as pro<g ref="char:EOLhyphen"/>vide themſelves places<g ref="char:punc">▪</g> and are not PROVIDED for them, come into them and execute them not with a mind of doing good, but of Domineering, not of</hi> providing <hi>for others, but for their own turnes.</hi>
+            </p>
+            <p>A learned Interpreter upon <hi>Joſhuah,</hi> ſpeaking of the backward<g ref="char:EOLhyphen"/>neſs and loathneſs of <hi>Joſhuah</hi> to be advanced to <hi>Moſes</hi> Room, (though yet he was a man of a great Spirit and Wiſdom,) not<g ref="char:EOLhyphen"/>withſtanding Gods earneſtneſs, and multiplyed incouragements to him lets fall this Concluſion: <note place="margin">
+                  <hi>Qui Magiſtra<g ref="char:EOLhyphen"/>tus ambi unt co<g ref="char:EOLhyphen"/>rum ſunt in<g ref="char:EOLhyphen"/>digniſſimi. Multa honeſtè accipi poſſunt quae tamen ho<g ref="char:EOLhyphen"/>neſtè peti <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on poſſunt.</hi>
+               </note> 
+               <hi>None are leſſe worthy of ad<g ref="char:EOLhyphen"/>vancement then thoſe who hunt moſt eagerly after it, and thoſe who ambitiouſly ſeek an Office or Honour, do</hi> ipſo facto <hi>by that very Act diſcover their extreme unworthineſſe, and that<g ref="char:punc">▪</g> of all other men<g ref="char:punc">▪</g> they deſerve it not.</hi> It is certain, That <hi>a modest undervaluing of Self, is an ordinary attendant upon true worth;</hi> 
+               <note place="margin">
+                  <hi>Auſtin. Nazienzen. Baſil. Chryſoſtom.</hi>
+               </note> this will appear<g ref="char:punc">▪</g> if we conſider how <hi>Auſtin</hi> often <hi>fled</hi> from preferment, <hi>Nazianzen refuſed</hi> it<g ref="char:punc">▪</g> till the perſwaſions and importunities of an <hi>Empe<g ref="char:EOLhyphen"/>rour</hi> prevailed with him. <hi>Bazil</hi> was <hi>Haled</hi> into it, <hi>Chryſoſtom hid</hi> himſelf from it, theſe men weighed their own ſtrength and ſufficiency, the importance of their <hi>Charge,</hi> the account they muſt give, and the ſlippery places they muſt ſtand in; the conſi<g ref="char:EOLhyphen"/>deration whereof cooled all ambitious heats in them, and blunt<g ref="char:EOLhyphen"/>ed their Appetite to Honour or Advancement, they well know<g ref="char:EOLhyphen"/>ing what <hi>Cauſin</hi> ſaith, <note place="margin">
+                  <hi>Cauſin.</hi>
+               </note> 
+               <hi>That the paths of Honour and Preferment are upon Ice, and bordered upon Precipices, as well as Honour and Ad<g ref="char:EOLhyphen"/>vancement<g ref="char:punc">▪</g> attained is ſcituated near unto it.</hi>
+            </p>
+            <p>And all men know, that <hi>Honores mutant mores, ſed raro in me<g ref="char:EOLhyphen"/>liores, quia Honor eſt ſicut Hedera, quae arbores exſiccat, in quas ſerpit.</hi>
+            </p>
+            <p>But there is little need of looking abroad<g ref="char:punc">▪</g> from other Autho<g ref="char:EOLhyphen"/>rities, Hiſtories and Lawes<g ref="char:punc">▪</g> for aid againſt the ſale of Offices and Places of Truſt, or for diſpoſing of them to the moſt Worthy, the Lawes of <hi>England</hi> are of themſelves ſufficient to this pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <p>
+               <hi>Fleta<g ref="char:punc">▪</g>
+               </hi> a very ancient Author<g ref="char:punc">▪</g> ſaith, <note place="margin">
+                  <hi>Fleta.</hi>
+               </note> That the time of <hi>Edward</hi> the firſt, was very famous for good Judges and Officers, for they came to their places <hi>ſine precio aut prece,</hi> without price or prayer.</p>
+            <p>
+               <note place="margin">34 <hi>E.</hi> 3. <hi>c.</hi> 1</note> The Statute of 34. <hi>E.</hi> 3. cap. 1. in the laſt Edition by <hi>Powlton,</hi>
+               <pb n="6" facs="tcp:97658:5" rendition="simple:additions"/> Ordaines that Juſtices of Peace of the moſt <hi>WORTHY</hi> of their Country ſhall be <hi>ELECTED,</hi> and joyned with ſome learned in the Law, &amp;c. but if you look into the old ancient Edition of the Statutes, the words of that Statute is (the moſt valiant,) ſo that be it one or other, their Election implies them to be freely choſen; and their being moſt valiant or moſt worthy, fully an<g ref="char:EOLhyphen"/>ſwers the word of God<g ref="char:punc">▪</g> as to either of thoſe ſingle qualificati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>
+               <note place="margin">12. <hi>R.</hi> 2. <hi>cap.</hi> 2.</note> But if we deſcend a little lower, and look into the next Kings Raigne, we ſhall find a moſt Excellent Statute made in the 12. year of that King, <hi>(viz.) Richard</hi> the ſecond. The words of which Statute I ſhall ſet down at large, becauſe of the ineſtimable worth and value of it, <hi>(viz.) It is accorded that the Chancellor, Treaſurer, Keeper of the Privy Seal, Steward of the Kings houſe, the Kings Chamberlain, Clerke of the Rolls, the Juſtices of the one Bench or the other, Barons of the Exchequer, and all others that ſhall be called to ordain Juſtices of the Peace, Sheriffes, Eſcheators, Cuſtomers, Comptrollers, or ANY OTHER Officer, or Miniſter of the King ſhall be firmly ſworn, That they ſhall not ordain, name or make Juſtices of Peace, Sheriffe, Eſcheator, Customer, Com<g ref="char:EOLhyphen"/>ptroller, nor any other Officer or Miniſter of the King for ANY GIFT, BROCAGE, FAVOUR or AFFECTION, nor that none that PURSUETH by him or by others, PRIVILIE or O<g ref="char:EOLhyphen"/>PENLIE to be in any manner of OFFICE, ſhall be put in the ſame Office or in any OTHER, but that they make all ſuch Ministers or Officers of the BEST and MOST LAWFULL men and SUF<g ref="char:EOLhyphen"/>FICIENT to their ESTIMATION and KNOWLEDGE.</hi>
+            </p>
+            <p>
+               <note place="margin">Com. 379.</note> Certainly this is a Statute that is a moſt Excellent one, none (beneath the Spirit of God) could pen a better, unleſſe he could get a pen made of a quill ſnatcht from the wing of a Seraphym to doe it; but alas, it is a carcaſſe without a ſoul, and we have need of the head and hands of Seraphyms to put it in Execu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Of this law the Lord <hi>Coke</hi> ſaith, <note place="margin">Co. littl. f. 234. Sect. 379.</note> 
+               <hi>That it is worthy to be writ<g ref="char:EOLhyphen"/>ten in letters of Gold, but more worthy to be put in Execution, for (ſaith he) certainly never ſhall Juſtice be duly adminiſtred, but when the Officers and Miniſters of Justice be of ſuch quality, and come to their places in ſuch manner as by this law is required.</hi>
+            </p>
+            <pb n="7" facs="tcp:97658:5" rendition="simple:additions"/>
+            <p>
+               <note place="margin">5. E. 6. c. 16.</note> There is another Excellent Statute made in the 5. year of <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the ſixth, againſt buying and ſelling of ſome ſort of Offices to which there is a ſevere penalty annexed; by which Statute no Office in any wiſe relating to the Adminiſtration of Juſtice or Clerkſhip in any Court of Record, or concerning the Kings Treaſure, Revenue, Accompt, Aulnage, Auditorſhip, Surveyor, or keeping of any <hi>His Majeſties</hi> Caſtles, Fortreſſes, &amp;c. may be bought or ſold, and if it be, then all and every ſuch perſon and perſons as ſhall bargain or ſell any of the ſaid Office or Offices, Deputation or Deputations, of any of the ſaid Offices or any part of them, or that ſhall take any money, fee, reward or profit for any the ſaid Office or Offices, Deputation or Deputations, &amp;c. or that ſhall take any Covenant, Bond or Aſſurance, for any mo<g ref="char:EOLhyphen"/>ney, reward or profit, to be given for any the ſaid office or Offi<g ref="char:EOLhyphen"/>ces, Deputation or Deputations, &amp;c. The perſon ſo bargaining or ſelling, or that ſhall take any ſuch Promiſe, Covenant, Bond or Aſſurance, ſhall not only forfeit his eſtate and intereſt therein, but alſo every perſon ſo Buying, Giving or Aſſuring, ſhall be ad<g ref="char:EOLhyphen"/>judged a diſabled perſon<g ref="char:punc">▪</g> to have or enjoy the ſaid Office or Offi<g ref="char:EOLhyphen"/>ces, Deputation or Deputations, &amp;c. and that all ſuch Bargains, Sales, Promiſes, Covenants and Aſſurances, as is before ſpecified<g ref="char:punc">▪</g> ſhall be void.</p>
+            <p>In this Act are excepted ſome Offices, as the Office of Parker<g ref="char:EOLhyphen"/>ſhip, or of the keeping of any Park, Houſe, or Mannor, Garden, Chaſe or Forreſt, ſuch Offices as are in the diſpoſe of the two Chief Juſtices of the Kings Bench and Common Pleas, and Ju<g ref="char:EOLhyphen"/>ſtices of Aſſize.</p>
+            <p>Upon this Satute a famous Caſe between Sir <hi>Robert Vernon<g ref="char:punc">▪</g>
+               </hi> the Kings Cofferer, and Sir <hi>Arthur Ingram</hi> was adjudged in <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi> Term 13. Jac. <note place="margin">Co. Lit. f. 234. Sect. 379. Co. 3. <hi>Inſtitutes</hi> c. 71. f. 154.</note> 
+               <hi>Sir</hi> Arthur Ingram <hi>gave a ſumme of money to the ſaid Sir</hi> R. V. <hi>for ſurrendring his Office to the King, with intent to have a grant made to him<g ref="char:punc">▪</g> the ſaid Sir</hi> A. I. <hi>which was accordingly done<g ref="char:punc">▪</g> and Sir</hi> Arthur Ingram <hi>admitted to the place<g ref="char:punc">▪</g> and ſworn, and yet the Lord Chancellor</hi> Egerton<g ref="char:punc">▪</g> 
+               <hi>and the Judges<g ref="char:punc">▪</g> did reſolve that the ſaid Office was void, and Sir</hi> A. I. <hi>diſabled to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave or take the ſaid Office, and that a</hi> non obſtante <hi>in his grant could not diſpence with this Act to enable the ſaid Sir</hi> A. I. <hi>to en<g ref="char:EOLhyphen"/>joy it, and Sir</hi> Arthur Ingram <hi>was thereupon removed, and Sir</hi> Mar<g ref="char:EOLhyphen"/>maduke
+<pb n="8" facs="tcp:97658:6" rendition="simple:additions"/> Darrell <hi>(by the Kings Commandment) ſworn in his place, and all Promiſes, Bonds and Aſſurances between Sir</hi> R. Vernon, <hi>and Sir</hi> A. Ingram <hi>adjudged void.</hi>
+            </p>
+            <p>
+               <note place="margin">Co. lib. 3. f. 83. in <hi>Twynes</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Caſe.</note> I ſhall inſtance in one Caſe more upon this Statute, and leave you to examine the Authorities in the Margin<g ref="char:punc">▪</g> to ſatisfie your ſelf further<g ref="char:punc">▪</g> if you ſee cauſe; the Caſe was between one <hi>Lee</hi> and his Wife<g ref="char:punc">▪</g> Excutrix of one <hi>Smith</hi> deceaſed<g ref="char:punc">▪</g> Plaintiff, and <hi>Mary Colſhill</hi> Executrix of <hi>Thomas Colſhill<g ref="char:punc">▪</g>
+               </hi> Defendant in debt upon an Obligation of 1000. markes Intr. Rot. 1707. Colſhill <hi>the Te<g ref="char:EOLhyphen"/>ſtator had the Office of one of the Cuſtomers of</hi> Queen Elizabeth, <hi>by Letters Patents<g ref="char:punc">▪</g> to him and his Deputies, and by Indenture be<g ref="char:EOLhyphen"/>tween him and</hi> Smith, <hi>the Teſtator of the Plaintiff, and for</hi> 600. l. <hi>paid, and a</hi> 100. l. per annum, <hi>to be paid during the life of</hi> Colſhil, <hi>made a deputation of the ſaid Office to</hi> Smith, <hi>and</hi> Col<g ref="char:EOLhyphen"/>ſhill <hi>covenanted with</hi> Smith, <hi>that if</hi> Colſhill <hi>ſhould die before him, that then his Executor ſhould pay unto him</hi> 300. l. <hi>and divers Covenants were in the ſaid Indenture concerning the ſaid Office, and the enjoying of it, and</hi> Colſhill <hi>was bound in the ſaid Obligation to perform the Covenant, and the Breach was alleadged in the non-payment of the ſaid</hi> 300. l. <hi>for as much as</hi> Smith <hi>over-lived</hi> Col<g ref="char:EOLhyphen"/>ſhill, <hi>and although the ſaid Covenant to repay the ſaid</hi> 300. l. <hi>was lawfull, yet for as much as the reſt of the Covenants were a<g ref="char:EOLhyphen"/>gainſt the Statute of</hi> 5 E. 6. c. 16. <note place="margin">5 <hi>E.</hi> 6. <hi>c.</hi> 16.</note> 
+               <hi>and if the addition of a lawfull Covenant ſhould make the Obligation of force; the Statute ſhould ſerve for little or no purpoſe, for this cauſe<g ref="char:punc">▪</g> it was adjudged that the Obligation was utterly void.</hi>
+            </p>
+            <p>
+               <note place="margin">Co. Lit. 120. Cro. 1. rep. 425. &amp; 330. Cro. 2. rep f. 385. pl. 16. Hob. rep. f. 75. Co. 12. pars f. 74. &amp; 101. &amp;c.</note> Theſe two Caſes give you intimation enough what the Law of <hi>England</hi> deems<g ref="char:punc">▪</g> of ſelling of Offices<g ref="char:punc">▪</g> as an addition to what is before, yet I ſhall refer you to the ſeverall Caſes in the Mar<g ref="char:EOLhyphen"/>gin, to ſatisfie your ſelf more fully, wherein you ſhall find corrupt Eccleſiaſticall preferments, (which are <hi>quodammodo</hi> Of<g ref="char:EOLhyphen"/>fices) or Symony, to fall under the ſame cenſure of our Law, as well as other Lawes.</p>
+            <p>From all the Authorities and Lawes that I have thus troubled you with the mentioning of, give me leave to infer thus much:
+<list>
+                  <item>1. That the ſale of Offices and places of Truſt, whether Ori<g ref="char:EOLhyphen"/>ginall or Deputed<g ref="char:punc">▪</g> is pernicious to the Kings Majeſty, for it cor<g ref="char:EOLhyphen"/>rupts the Chryſtall ſtream of His Juſtice, and in makes that Ven<g ref="char:EOLhyphen"/>dible
+<pb n="9" facs="tcp:97658:6" rendition="simple:additions"/> that ſhould be free. For he that will be ſo ſordid as to buy againſt Law, will think himſelf indulged to be ſo baſe as to ſell alſo againſt it.</item>
+                  <item>2. That the light of Nature is not ſo dim and purblind, but it can ſee, nor ſo extremely degenerated, but it can abhor. Corruption and unworthineſs in places of Truſt.</item>
+                  <item>3. That <hi>venalis Juſtitia</hi> is worm-wood to the people of the Realm, yea, I may ſay <hi>venome<g ref="char:punc">▪</g>
+                     </hi> that empoyſons its pureſt mo<g ref="char:EOLhyphen"/>rall ſtreams, and makes the Law a leaden <hi>Lesbian Rule,</hi> to bend at every beck of the <hi>Diana</hi> of Profit; or if I may modeſtly ſay it, to traile after her poſteriors. Thus the ſhip of the Realm muſt ſhift her ſailes<g ref="char:punc">▪</g> as the wind of the Goddeſſe-money ſhall blow; and it muſt ſaile this or that, or any other way, though it be up<g ref="char:EOLhyphen"/>on apparent Shelves and Rocks, to the hazard of its Ruine, if money bids.</item>
+                  <item>4. It ſpoiles the Harmony of the World<g ref="char:punc">▪</g> by inverting the Or<g ref="char:EOLhyphen"/>der of Nature, <hi>Virtus poſt Nummos,</hi> &amp;c.</item>
+                  <item>5. It is a Bar to Ingenuity and Study<g ref="char:punc">▪</g> after all noble endow<g ref="char:EOLhyphen"/>ments<g ref="char:punc">▪</g> as I ſaid before, if Gold ſhall over-ballance Goodneſs; if an Aſſe laden with money ſhall carry the precedency and pre<g ref="char:EOLhyphen"/>heminence before an Heroick and Generous ſoul, never ſo well furniſhed and laden with Worth and Learning, the richeſt ea<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hly furniture of mankind.</item>
+               </list>
+            </p>
+            <p>But, Sir, before I come to your Queſtion, let me have a little more Liberty, and I will not treſpaſſe long upon you.</p>
+            <p>It is certain, That His Majeſty doth not, nor His Anceſtors have not<g ref="char:punc">▪</g> ſold Offices and Places of Truſt in their mediate di<g ref="char:EOLhyphen"/>ſpoſe, nor have they uſually<g ref="char:punc">▪</g> unleſs upon miſinformation<g ref="char:punc">▪</g> di<g ref="char:EOLhyphen"/>ſpoſed them to perſons unfit and uncapable; and if ſometimes it ſo happened, the wiſdom of upright Judges have laid them aſide, notwithſtanding they had Patents under the Great Seal of <hi>England;</hi> and when they were ſo put out, the Kings of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have given their Places to other fit and capable perſons; I ſhall give you<g ref="char:punc">▪</g> at this time<g ref="char:punc">▪</g> but one inſtance, <note place="margin">Bro. Office pl: 48. 5 <hi>E.</hi> 4. <hi>rot.</hi> 66.</note> which was one <hi>Vin<g ref="char:EOLhyphen"/>tor,</hi> who was made Clerk of the Crown by <hi>Edward</hi> the fourth by Letters Patents, but being found unſufficient, was laid aſide by the Judges of that time, and that King<g ref="char:punc">▪</g> by advice of the Judges<g ref="char:punc">▪</g> appointed one <hi>Weſt<g ref="char:punc">▪</g>
+               </hi> a fit perſon in his place.</p>
+            <pb n="10" facs="tcp:97658:7" rendition="simple:additions"/>
+            <p>It is alſo certain, that divers places under the Lord Chancel<g ref="char:EOLhyphen"/>lor or Lord Keeper<g ref="char:punc">▪</g> are<g ref="char:punc">▪</g> by preſcription<g ref="char:punc">▪</g> in his diſpoſe, and have been<g ref="char:punc">▪</g> and uſually are<g ref="char:punc">▪</g> ſold<g ref="char:punc">▪</g> as the Curſitors places, &amp;c. the 6. Clerks &amp;c. in the diſpoſe of the Maſter of the Rolls, and ſold by him. The Philizers, &amp;c. in the diſpoſe of the chief Juſtice of the Common Pleas, and other Places in the diſpoſe of the chief Juſtice of the Kings Bench, and Juſtices of Aſſize, and have been alſo ſold by them reſpectively; which time and ſi<g ref="char:EOLhyphen"/>lence hath admitted them alſo to ſell.</p>
+            <p>I have omitted any particular or diſtinct diſcourſe of <hi>Judiciall</hi> Places, (though yet ſome <hi>light touches</hi> of them alſo may be ob<g ref="char:EOLhyphen"/>ſerved herein) as conceiving no man ſo far <hi>benighted with Igno<g ref="char:EOLhyphen"/>rance,</hi> and conſequently ſo hardy, as to affirm them to be <hi>Vendi<g ref="char:EOLhyphen"/>ble</hi> by Law, or to be given to ſuch men as are <hi>inſufficient,</hi> or (as Learned <hi>Bacon</hi> ſaith in another Caſe) to ſuch as are <hi>Blind in the Colours of good and evill:</hi> Philoſophers have an <hi>Axiome,</hi> That there are <hi>Principia, quae dicuntur DIGNITATES, ob id, quod jure illis fides habenda ſit, cum ea unuſquiſque ſtatim admittit, ut totum unum quodlibet majus eſt ſua parte.</hi> There is a <hi>Communis conceptio vel Notitia,</hi> (i.e.) <hi>a Notion,</hi> not <hi>meerly probable,</hi> and ſo obvious onely to <hi>wiſe men,</hi> but ſuch a Notion that<g ref="char:punc">▪</g> for its <hi>dignity and ſelf-evidence<g ref="char:punc">▪</g>
+               </hi> may juſtly be ſtyled the <hi>univerſall ſuffrage of all mankind in all Nations,</hi> ſo <hi>cogent,</hi> and (if I may ſay it) <hi>Mathe<g ref="char:EOLhyphen"/>matically Demonſtrative,</hi> that it fetches its <hi>clear bare-faced and fore-right</hi> proofs from the <hi>Common Remaines</hi> of <hi>lapſed</hi> Nature; ſo that a <hi>Midnight Ethnicke</hi> can<g ref="char:punc">▪</g> without <hi>Pauſe</hi> or <hi>Study,</hi> not onely tell you that he that <hi>buyes</hi> dearly, cannot <hi>give</hi> freely; but that a blind <hi>Polyphemus<g ref="char:punc">▪</g>
+               </hi> in ſuch a Magiſtracy<g ref="char:punc">▪</g> is a <hi>Monstrum,</hi> &amp;c.—<hi>ingens, cui lumen ademptum.</hi>
+            </p>
+            <p>Thus much in generall and briefly<g ref="char:punc">▪</g> touching the ſale of Offices<g ref="char:punc">▪</g> and inſufficiency of Officers, the Law affording much more if need required, or had I more time: <note place="margin">
+                  <hi>Charon.</hi>
+               </note> 
+               <hi>He that was born in a bottle, and never looked into the world, but through a hole,</hi> may eaſily ſee the inconveniences that purſue at the heels of ſuch practiſes; but here I deſiſt<g ref="char:punc">▪</g> as to what I promiſed to ſay in Generall.</p>
+            <p>Now to give you the beſt ſatisfaction in ſhort to your Queſti<g ref="char:EOLhyphen"/>on, viz.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>In whoſe dispoſe the Clerk-ſhip of the Peace<g ref="char:punc">▪</g> in every County<g ref="char:punc">▪</g> is?</hi>
+            </p>
+            <pb n="11" facs="tcp:97658:7" rendition="simple:additions"/>
+            <p>
+               <label>Anſw.</label> I muſt confeſs that I did think this a very needleſſe queſtion, when the experience of all my life, and I believe of yours, hath been<g ref="char:punc">▪</g> that the <hi>Cuſtos Rotulorun</hi> had the gift of that Place; and I ever looked upon the Clerk of the Peace as his ſervant, he himſelf being the Keeper of the Records, and anſwerable for them, and not his Clerk; and I did alwaies conceive with ſubmiſ<g ref="char:EOLhyphen"/>ſion to better Judgments, that the Donation of this Place of Clerkſhip was an inſeparable inſident to the <hi>Cuſtos,</hi> like that Caſe of <hi>Scrogs</hi> in <hi>Dyer,</hi> 
+               <note place="margin">
+                  <hi>Dyer</hi> 175. pl. 25.</note> where Queen <hi>Mary</hi> granted the Exi<g ref="char:EOLhyphen"/>genters Place for <hi>London,</hi> (being vacant, after the death of Sir <hi>Robert Brook</hi> chief Juſtice) to one <hi>Colſhill,</hi> and afterwards made Sir <hi>Anthony Brown</hi> chief Juſtice of the Common Pleas, <note place="margin">Of the Com<g ref="char:EOLhyphen"/>mon Pleas.</note> who re<g ref="char:EOLhyphen"/>fuſed <hi>Colſhill,</hi> and made <hi>Scrogs</hi> Exigenter in his Place; and a great ſtrife ariſing about it, Queen <hi>Eliz.</hi> in the firſt year of her Raign<g ref="char:punc">▪</g> referred it to Sir <hi>Nicholas Bacon<g ref="char:punc">▪</g>
+               </hi> Chancellor, the Judges of the Kings Bench and Exchequer, Atturney Generall, and At<g ref="char:EOLhyphen"/>turney of the Dutchy <hi>(excluſis omnibus Juſticiariis de Communi Banco,)</hi> who after great deliberation and diſpute<g ref="char:punc">▪</g> did reſolve, that <hi>Colſhill</hi> had no Title, and that the Donation of this Office did not belong to the Queen, but only to the diſpoſition of the chief Ju<g ref="char:EOLhyphen"/>ſtice, and as an inſeparable incident belonging to the perſon of the chief Juſtice, and that by uſe and preſcription.</p>
+            <p>
+               <note place="margin">
+                  <hi>Mittons</hi> Caſe Co. lib. 4. f. 33, 34.</note> In <hi>Mittons</hi> Caſe in the Lord <hi>Coke</hi> (where the fore-mentioned caſe is cited,) it is reſolved, that though Queen <hi>Eliz.</hi> by her Let<g ref="char:EOLhyphen"/>ters Patents under the Great Seal, had granted to the ſaid <hi>Mit<g ref="char:EOLhyphen"/>ton</hi> the Office of Clerk of the County-Court<g ref="char:punc">▪</g> or ſhire-Clerk of the County of <hi>Somerſet,</hi> with all fees, &amp;c. for term of life<g ref="char:punc">▪</g> in the vacancy of a Sheriff, and after made <hi>Arthur Hopton</hi> Eſq; Sheriff there, who interrupted <hi>Mitton</hi> in that place, claiming it as inci<g ref="char:EOLhyphen"/>dent to his Office, and upon his complaint to the Lords of the Council, it was referred to chief Juſtice <hi>Wray</hi> and <hi>Ander<g ref="char:EOLhyphen"/>ſon,</hi> (before whom Counſel was heard, and the matter often de<g ref="char:EOLhyphen"/>bated,) after conference with the other Judges, it was agreed by all the Juſtices, <hi>Nemine contradicente aut reluctante,</hi> that <hi>Mittons</hi> grant was void in Law, and one of the Reaſons given thereof<g ref="char:punc">▪</g> in ſhort<g ref="char:punc">▪</g> in this, <hi>That the County-Court, and all entring of proceedings there, are incident to the Office of the Sheriff, and therefore cannot<g ref="char:punc">▪</g> by Letters Patents<g ref="char:punc">▪</g> be divided from it; and al<g ref="char:EOLhyphen"/>though
+<pb n="12" facs="tcp:97658:8"/> the ſaid Grant had been made to</hi> Mitton, <hi>when the Office of Sheriff was void; yet it had been void, and when the Queen ſhall appoint one, he ſhall avoid it.</hi>
+            </p>
+            <p>And though I conceive this were enough to ſatisfie you in ſo eaſie a Caſe, as to whoſe gift it is, and that it is an incident to the <hi>Cuſtos Rotulorum,</hi> yet I ſhall direct you to two Statutes, and the opinion of a very Learned and Reverend Judge in the point; and then forbear your further trouble<g ref="char:punc">▪</g> till I hear of your further doubts herein.</p>
+            <p> 
+               <note place="margin">37 <hi>H.</hi> 8. <hi>c.</hi> 1.</note> The firſt Statute is 37 <hi>H.</hi> 8. <hi>c.</hi> 1. wherein the third Paragraph of that Stature<g ref="char:punc">▪</g> you ſhall find, that the <hi>Cuſtos Rotulorum</hi> for the time being for every ſhire of this Realm and <hi>Wales,</hi> and other Dominions, &amp;c. ſhall at all times <hi>thereafter</hi> Nominate, Elect, Appoint and Aſſign all and every Perſon or Perſons which <hi>there<g ref="char:EOLhyphen"/>after</hi> ſhould be Clerks of the Peace within any the ſaid ſhires, &amp;c. You may peruſe the Statute at large for your better ſatisfa<g ref="char:EOLhyphen"/>ction, and ſee the proviſoes in the cloſe of the Act.</p>
+            <p> 
+               <note place="margin">3 &amp; 4. <hi>E.</hi> 6. <hi>c.</hi> 1. </note>The ſecond Statute is 3 &amp; 4. <hi>E.</hi> 6. <hi>c.</hi> 1. whereby<g ref="char:punc">▪</g> in the third Paragraph alſo of that Statute<g ref="char:punc">▪</g> it is ordained, that the Perſon or Perſons that Appointed, Elected, Named or Aſſigned to exer<g ref="char:EOLhyphen"/>ciſe and enjoy the Office of <hi>Cuſtos Rotulorum</hi> in every County, may exerciſe the ſame<g ref="char:punc">▪</g> by <hi>himſelf</hi> or his ſufficient Deputy, &amp;c. ſo that it is implied by this Statute, that there is no neceſſity of a Clerk of the Peace, if the <hi>Cuſtos</hi> will pleaſe to exerciſe the Place himſelf, as it ſeems he may, and take no Deputy; as the high Sheriff may exerciſe the Place of his Deputy-Sheriff himſelf, if he pleaſe in his own Perſon; and Deputies<g ref="char:punc">▪</g> in ſuch caſes<g ref="char:punc">▪</g> are but Inſtruments Acted by the principall Agent, and are accoun<g ref="char:EOLhyphen"/>ted but <hi>partes animatae dominorum,</hi> doing that which the Maſters themſelves may take upon them; but if they pleaſe<g ref="char:punc">▪</g> for eaſe or Honours ſake<g ref="char:punc">▪</g> they may forbear.</p>
+            <p> 
+               <note place="margin">Co. 2. Inſtit. f. 674.</note> It now remaines, that I give you the opinion of the afore<g ref="char:EOLhyphen"/>mentioned Learned Judge, which is the Lord <hi>Cokes,</hi> in his ſecond Inſtitutes, to wit, Comment upon the Statute of the 27 <hi>H.</hi> 8. <hi>c.</hi> 16. ſpeaking of the <hi>Cuſtos Rotulorum<g ref="char:punc">▪</g>
+               </hi> ſaith, That his Place is of the gift of the Lord Chancellor<g ref="char:punc">▪</g> or Lord Keeper, and he may exerciſe his Office by Deputy, and hath the Cu<g ref="char:EOLhyphen"/>ſtody of all Bargains and Sales, &amp;c. and of all Records and
+<pb n="13" facs="tcp:97658:8"/> Rolls of the Seſſions of Peace, and of the Commiſſion of Peace, whence he takes his name of Office, &amp;c. <hi>He hath the gift of the Clerk-ſhip of the Peace<g ref="char:punc">▪</g> to exerciſe by himſelf<g ref="char:punc">▪</g> or his Deputy, but he continueth no longer in his place<g ref="char:punc">▪</g> then the</hi> Cuſtos Rotulorum <hi>doth.</hi>
+            </p>
+            <p>Thus, Sir, you have my ſudden and indigeſted thoughts, not ſo methodically as I could wiſh, nor ſo largely as I could have done, had not your Command bound my ſearches within the Confine of ſo ſmall a ſpace of time, but I hope however you will take it in good part. I have in the Margin for your better ſatisfaction ſet down the Authorities and Caſes in Law that warrant my aſſertions, to the end that, (if you pleaſe) you may try what is here ſaid by the Tou<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, and have recourſe to the Spring-head. I am</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your humble Servant E.N.</signed>
+               <dateline>
+                  <date>Sept. 19. 1660.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
